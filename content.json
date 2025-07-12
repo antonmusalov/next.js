@@ -1,0 +1,18 @@
+{
+  "company": "FitLife Gym",
+  "industry": "Fitness & Wellness",
+  "description": "Modern fitness center offering personal training, group classes, and state-of-the-art equipment. We help people achieve their fitness goals in a supportive environment.",
+  "contact": {
+    "email": "info@fitlifegym.com",
+    "phone": "(555) 456-7890"
+  },
+  "services": [
+    "Web Development",
+    "Mobile Apps",
+    "Cloud Solutions"
+  ],
+  "hero": {
+    "title": "Welcome to FitLife Gym",
+    "subtitle": "Modern fitness center offering personal training, group classes, and state-of-the-art equipment. We help people achieve their fitness goals in a supportive environment."
+  }
+}
