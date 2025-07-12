@@ -1,0 +1,20 @@
+{
+  "name": "FitLife Gym",
+  "description": "Modern fitness center offering personal training, group classes, and state-of-the-art equipment. We help people achieve their fitness goals in a supportive environment.",
+  "theme": {
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#1E40AF"
+    }
+  },
+  "sections": [
+    "hero",
+    "about",
+    "services",
+    "contact"
+  ],
+  "features": [
+    "contact-form",
+    "analytics"
+  ]
+}
